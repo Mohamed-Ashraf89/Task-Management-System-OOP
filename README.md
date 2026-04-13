@@ -20,3 +20,5 @@ A console-based application built with **C#** to manage different types of tasks
 - `BaseTask.cs`: The abstract parent class.
 - `IPriority.cs`: The interface for priority control.
 - `WorkTask.cs` & `PersonalTask.cs`: Specific task implementations.
+
+  ##Developed as part of my Level 1 Computer Science studies at New Mansoura University.
