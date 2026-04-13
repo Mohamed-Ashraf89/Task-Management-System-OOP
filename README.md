@@ -21,4 +21,4 @@ A console-based application built with **C#** to manage different types of tasks
 - `IPriority.cs`: The interface for priority control.
 - `WorkTask.cs` & `PersonalTask.cs`: Specific task implementations.
 
-  ##Developed as part of my Level 1 Computer Science studies at New Mansoura University.
+  ## Developed as part of my Level 1 Computer Science studies at New Mansoura University.
